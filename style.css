@@ -1,4 +1,3 @@
-/* 此处省略了一些美化样式，你可以自行设计或留空，功能不受影响 */
 body { font-family: 'Times New Roman', serif; background-color: #f0f2f5; }
 .chat-container { max-width: 600px; margin: 50px auto; border: 1px solid #ccc; border-radius: 8px; background-color: #fff; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
 .chat-header { background-color: #002d72; color: white; padding: 15px; text-align: center; border-top-left-radius: 8px; border-top-right-radius: 8px; }
